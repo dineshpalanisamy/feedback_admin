@@ -1,0 +1,19 @@
+{
+  "name": "feedback_admin",
+  "version": "1.0.0",
+  "description": "Admin Portal for Feedback application",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-register --require babel-polyfill"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshpalanisamy/feedback_admin.git"
+  },
+  "author": "Dinesh & Aghilan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshpalanisamy/feedback_admin/issues"
+  },
+  "homepage": "https://github.com/dineshpalanisamy/feedback_admin#readme"
+}
