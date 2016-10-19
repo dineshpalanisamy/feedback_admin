@@ -6,7 +6,7 @@ class Header extends Component{
   render(){
     return(
         <div>
-          <h1 style={{color: "#808080"}}>
+          <h1 id="header">
             Feedback Admin
           </h1>
         </div>

@@ -6,8 +6,10 @@ class Search extends Component{
   render(){
     return(
         <div>
-          <input type="text" placeholder="Search here" />
-        {/*  <img src="https://www.google.co.in/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" />*/}
+        <form id="search-box">
+          <input type="text" id="search" placeholder="Search for..." required />
+          <input type="submit" value="search" id="submit" />
+        </form>
         </div>
     );
   }

@@ -1,0 +1,12 @@
+#header {
+    text-align: center;
+    color: #05BACE;
+}
+#search-box {
+  margin-left: 1.5%;
+  margin-bottom: 30%;
+}
+#header-div {
+  height: 100px;
+  background-color: grey;
+}
